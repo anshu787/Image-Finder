@@ -19,7 +19,7 @@ The Pixabay Image Search App is a dynamic web application built with React that 
 ## Screenshots :camera:
 
 ![Screenshot 1](https://github.com/anshu787/Image-Finder/blob/master/ss/pixa.png)
-![Screenshot 2]([link_to_screenshot_2.png](https://github.com/anshu787/Image-Finder/blob/master/ss/dog.png))
+![Screenshot 2](https://github.com/anshu787/Image-Finder/blob/master/ss/dog.png)
 ![Screenshot 3](https://github.com/anshu787/Image-Finder/blob/master/ss/beach.png)
 
 ## Installation :computer:
