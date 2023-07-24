@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Pixabay Image Search App :camera:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview :clipboard:
 
-In the project directory, you can run:
+The Pixabay Image Search App is a dynamic web application built with React that allows users to search for stunning images from Pixabay's extensive collection. Pixabay offers a vast repository of high-quality images, and this app brings the beauty of those images right at your fingertips.
 
-### `npm start`
+## Features :sparkles:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Image Search**: Enter keywords to search for images relevant to your interests.
+- **Image Preview**: View a preview of the images before selecting the one you like.
+- **Image Details**: Get detailed information about each image, including its size and resolution.
+- **Download Images**: Download the images directly to your device with just one click.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo :tv:
 
-### `npm test`
+[Link to live demo](https://pixabay-images-finder.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots :camera:
 
-### `npm run build`
+![Screenshot 1](https://github.com/anshu787/Image-Finder/blob/master/ss/pixa.png)
+![Screenshot 2]([link_to_screenshot_2.png](https://github.com/anshu787/Image-Finder/blob/master/ss/dog.png))
+![Screenshot 3](https://github.com/anshu787/Image-Finder/blob/master/ss/beach.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation :computer:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository: `git clone https://github.com/anshu787/pixabay-app.git`
+2. Navigate to the project folder: `cd pixabay-app`
+3. Install dependencies: `npm install`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage :rocket:
 
-### `npm run eject`
+1. Obtain a free API key from Pixabay to fetch images (https://pixabay.com/api/docs/).
+2. Update the API key in the app to enable image search functionality.
+3. Run the app: `npm start`
+4. Open your web browser and go to: `http://localhost:3000`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used :computer:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
+- HTML5
+- CSS3
+- Pixabay API (https://pixabay.com/api/docs/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing :raised_hands:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions, bug fixes, or new features to add.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments :clap:
 
-### Code Splitting
+- Special thanks to Pixabay for providing access to their amazing collection of images.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Get in Touch :envelope:
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions, feedback, or just want to say hello, feel free to reach out to us at . We'd love to hear from you! :smiley:
