@@ -1,0 +1,15 @@
+nav{
+    background-color: #011724;
+    display: flex;
+}
+.navigation{
+    display: inline-flex;
+    justify-content: space-between;
+    width:100%;
+    color: wheat;
+}
+.nav-left{
+    
+    padding-left: 9rem;
+
+}
